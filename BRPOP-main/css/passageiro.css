@@ -70,14 +70,14 @@ a:hover {
     position: absolute;
     width: 539px;
     height: 384px;
-    left: 1086px;
+    left: 50%;
     top: 150px;
 }
 .fundo-texto3 {
     position: absolute;
-    width: 100%;
-    height: 100%;
-    left: 20%;
+    width: 20%;
+    height: 30%;
+    left: 10%;
     top: 150px;
     border-radius: 11px;
 }
@@ -86,7 +86,7 @@ a:hover {
     position: relative;
     width: 100%;
     height: 100%;
-    bottom: 300px;
+    bottom: 310px;
 }
 
 .pequenotexto2 {
@@ -104,5 +104,12 @@ a:hover {
     height: 150px;
     bottom: 80px;
     left: 20px;
-    font-size: 46px;
+    font-size: 40px;
+}
+.Maça {
+    position: relative;
+    width: 100%;
+    height: auto;
+    left: 155px;
+    bottom: 47px;
 }
